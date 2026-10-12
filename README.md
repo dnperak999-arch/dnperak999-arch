@@ -6,6 +6,12 @@ I focus on reproducible workflows, explicit validation, and understanding the li
 
 ## Selected projects
 
+### [Hospitality Revenue Analytics](https://github.com/dnperak999-arch/hospitality-revenue-analytics)
+
+Commercial analysis of booking mix, quoted ADR, and non-arrival across two anonymised hotels, with duplicate-sensitivity testing to distinguish robust findings from data-quality-sensitive conclusions.
+
+**Python · pandas · matplotlib · data quality · revenue management · pytest**
+
 ### [PAYE Mean Pay Forecasting](https://github.com/dnperak999-arch/paye-mean-pay-forecasting)
 Time-based forecasting of UK PAYE mean pay with baseline comparison, model evaluation, and exploratory clustering.
 
